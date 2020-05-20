@@ -12,7 +12,7 @@
           "date": "2019-01-25T12:54:44Z",
           "prerelease": false,
           "name": "v1",
-          "url": "http://stm32utils.martinloren.com/fw/bluepill_led_test.bin"
+          "url": "https://github.com/martinloren/STM32Utils/raw/master/fw/STM32duinoBoot.bin"
         }
       ]
     },
@@ -26,7 +26,7 @@
           "date": "2019-01-25T12:54:44Z",
           "prerelease": false,
           "name": "v4",
-          "url": "http://stm32utils.martinloren.com/fw/HS10X_V4.bin"
+          "url": "https://github.com/martinloren/STM32Utils/raw/master/fw/Encoder2Position.bin"
         }
       ]
     }
