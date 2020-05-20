@@ -1,0 +1,34 @@
+{
+  "version": 0,
+  "date": "2020-05-20T18:00:54Z",
+  "list": [
+    {
+      "title": "STM32duino Bootloader",
+      "subtitle": "STM32F103C8T6 (Blue Pill) | Utility",
+      "description": "MAPLE bootloader that allow to flash the firmware via USB.",
+      "article": "https://medium.com/@paramaggarwal/programming-an-stm32f103-board-using-usb-port-blue-pill-953cec0dbc86",
+      "versions": [
+        {
+          "date": "2019-01-25T12:54:44Z",
+          "prerelease": false,
+          "name": "v1",
+          "url": "http://stm32utils.martinloren.com/fw/bluepill_led_test.bin"
+        }
+      ]
+    },
+    {
+      "title": "Encoder2Position Module",
+      "subtitle": "STM32F103C8T6 (Blue Pill) | v1.3 | Device",
+      "description": "Easy decode a Quadrature Optical Encoder to Absolute Position 0-5v output",
+      "article": "https://www.tindie.com/products/Tronicgr/encoder2position-module/",
+      "versions": [
+        {
+          "date": "2019-01-25T12:54:44Z",
+          "prerelease": false,
+          "name": "v4",
+          "url": "http://stm32utils.martinloren.com/fw/HS10X_V4.bin"
+        }
+      ]
+    }
+  ]
+}
