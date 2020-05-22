@@ -1,5 +1,5 @@
 # STM32Utils
-Official STM32Utils app repository
+Official STM32Utils app repository.
 
 This repository contain the firmware showing in the <a href="https://play.google.com/store/apps/details?id=com.martinloren.stm32utils">STM32Utils app</a> under the vendor < Generic >.
 
