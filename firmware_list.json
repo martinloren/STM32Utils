@@ -64,6 +64,7 @@
         }
       ]
     },
+    {
        "title": "stm32f411xe",
        "subtitle": "STM32F411 series (blackpill) | bootloader",
        "description": "A robotic arm controller using STM32.",
