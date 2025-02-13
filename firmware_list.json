@@ -65,8 +65,8 @@
       ]
     },
     {
-       "title": "stm32f411xe",
-       "subtitle": "STM32F411 series (blackpill) | bootloader",
+       "title": "Robotic ARM controller",
+       "subtitle": "STM32F411 series (blackpill) | Bootloader",
        "description": "A robotic arm controller using STM32.",
        "article": "https://github.com/your-username/my-project",
        "versions": [
@@ -74,7 +74,7 @@
            "date": "2023-10-05T15:30:00Z",
            "prerelease": false,
            "name": "v1.0",
-           "url": "https://github.com/martinloren/STM32Utils/raw/master/fw/mstm32f411xe.bin"
+           "url": "https://github.com/martinloren/STM32Utils/raw/master/fw/STM32-Robotic-Arm.bin"
          }
        ]
      },
